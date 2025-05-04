@@ -1,3 +1,4 @@
+# Script purpose: Disable onedrive setup in default user profile
 # Define the path to the default user's NTUSER.DAT file
 $ntuserPath = "C:\Users\Default\NTUSER.DAT"
 
